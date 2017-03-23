@@ -9,7 +9,7 @@ Enjoy!
 
 ### STA141A Project
 
-<a href="http://yilimkad.github.io/yilimkad.github.io/ProjectReport(1).pdf">Quora profile link for Adam D'Angelo</a>
+<a href="http://yilimkad.github.io/ProjectReporta.pdf">World GDP Growth and Population Growth Analysis</a>
 
 
 ### STA141B Project
