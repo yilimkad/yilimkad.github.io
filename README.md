@@ -7,11 +7,14 @@ My name is Yili Wang, a fourth-year Applied Statistics student at UC Davis with 
 Here are some projects I did. I hope these will make you feel how amazing the programming world is! 
 Enjoy!
 
+### STA141A Project
+
+<a href="http://yilimkad.github.io/yilimkad.github.io/ProjectReport+(1).pdf">Quora profile link for Adam D'Angelo</a>
+
+
 ### STA141B Project
-<a href="http://yilimkad.github.io/ProjectReport+(1).pdf">Race, School Ratings, and Real Estate: What affects home price in California? </a>
 
-<a href="http://cjacquelineq.github.io/STA141B-Project-House-Price/STA+141B+Project+House+Price.html">Quora profile link for Adam D'Angelo</a>
-
+<a href="http://cjacquelineq.github.io/STA141B-Project-House-Price/STA+141B+Project+House+Price.html">Race, School Ratings, and Real Estate: What affects home price in California? </a>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
