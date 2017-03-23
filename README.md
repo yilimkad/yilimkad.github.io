@@ -8,8 +8,8 @@ Here are some projects I did. I hope these will make you feel how amazing the pr
 Enjoy!
 
 ### STA141B Project: Race, School Ratings, and Real Estate: What affects home price in California? 
-<a href="http://www.quora.com/Adam-DAngelo">Quora profile link for Adam D'Angelo</a>
-
+<a href="http://yilimkad.github.io/yilimkad.github.io/ProjectReport+(1).pdf">Quora profile link for Adam D'Angelo</a>
+<a href="http://cjacquelineq.github.io/STA141B-Project-House-Price/STA+141B+Project+House+Price.ipynb">Quora profile link for Adam D'Angelo</a>
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
