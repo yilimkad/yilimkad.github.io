@@ -10,6 +10,7 @@ Enjoy!
 ### STA141A Project
 
 <a href="http://yilimkad.github.io/ProjectReporta.pdf">World GDP Growth and Population Growth Analysis</a>
+
 In the data of the World Development Indicators from the World Bank, it contains over a thousand annual indicators of economic development from hundreds of countries around the world. In the project, we explore the world GDP growth, the population, and other indicators from selected years which reflecting four phrase of world development: 1974, 1994, 2008, 2014. The purposes of the project are to observe the changes of GDP and population from countries over the world and to predict the these variables from a selected country, which is the United States. 
 
 
