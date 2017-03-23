@@ -9,7 +9,7 @@ Enjoy!
 
 ### STA141A Project
 
-<a href="http://yilimkad.github.io/yilimkad.github.io/ProjectReport+(1).pdf">Quora profile link for Adam D'Angelo</a>
+<a href="http://yilimkad.github.io/yilimkad.github.io/ProjectReport(1).pdf">Quora profile link for Adam D'Angelo</a>
 
 
 ### STA141B Project
