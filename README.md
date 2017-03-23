@@ -1,6 +1,6 @@
 ## Welcome to my digital portfolio!
 
-<img src="http://yilimkad.github.io/IMG_2365.JPG" width="120">
+<img src="http://yilimkad.github.io/yili.JPG" width="120">
 
 My name is Yili Wang, a fourth-year Applied Statistics student at UC Davis with expected graduation in December 2017. I am from Beijing and my hobbies are playing tennis and stock investment (even though I lose a lot.. but I am still optimistic about the market!). I am passionate about programming in python and I am want to seek for a career in Quantatitive Finance. 
 
